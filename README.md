@@ -2,7 +2,7 @@
 
 ## Nasa A Picture Of The Day App
 
-Welcome to my Laravel application. This app is to view the Nasa Picture of the day. You can also choose a date of ehich you wish to view the Nasa picture Of the day. If the date you select returns a video the app will display the video instead.
+Welcome to my Laravel application. This app is to view the Nasa Picture of the day. You can also choose a date of which you wish to view the Nasa picture Of the day. If the date you select returns a video the app will display the video instead.
 
 To get started clone this repository and run `composer install`. This will install the necessary dependencies for the application to run.
 
